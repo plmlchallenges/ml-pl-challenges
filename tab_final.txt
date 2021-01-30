@@ -1,0 +1,16 @@
+
+\begin{table}[hptb]
+\begin{scriptsize}
+\caption{Distribution of phases of ML posts with more than three stars for different languages}
+\begin{tabular}{l r r r r r r r r r}
+ & MR & DCP & FP & MB & ME & MD & MM & No \\\hline
+C\# & 72& 74& 84& 80& 100& 84& 100& 100 \\\hline
+C/C++ & 59& 67& 100& 59& 84& 57& -& 58 \\\hline
+Matlab & 69& 71& 80& 84& 74& 67& 50& 60 \\\hline
+Java & 100& 90& 100& 99& 100& 98& 100& 100 \\\hline
+R & 60& 55& 62& 57& 54& 69& 84& 80 \\\hline
+Python & 64& 78& 75& 71& 70& 65& 83& 62 \\\hline
+\end{tabular}
+\end{scriptsize}
+\label{tab:perc_answered_per_phase_per_lang}
+\end{table}

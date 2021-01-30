@@ -1,0 +1,108 @@
+8758439,,1,1/6/2012 13:22,1,,,<c++><machine-learning><reinforcement-learning>,15,mr,,,
+16778463,,1,5/27/2013 18:10,2,,,<c++><algorithm><machine-learning><artificial-intelligence><game-ai>,6,mr,c,,
+2813349,,1,5/11/2010 18:23,4,,,<c++><machine-learning><computer-vision><svm>,5,mr,,,
+17055964,,1,6/12/2013 0:32,1,,,<python><machine-learning><computer-vision><bioinformatics>,8,mr,py,,
+58602619,,1,10/29/2019 6:56,0,,,<python><c++><machine-learning><pytorch><torch>,5,md,py,,
+43411911,,1,4/14/2017 12:52,2,,,<c++><machine-learning><tensorflow>,4,no,,,
+5897082,,1,5/5/2011 11:42,2,,,<python><machine-learning>,4,mr,py/ja,,
+44579856,,1,6/16/2017 2:27,3,,,<machine-learning><llvm><xgboost>,4,no,,!c+,
+9830592,,1,3/22/2012 21:11,2,,,<machine-learning><artificial-intelligence>,4,mb,ja/c/c#/py,,
+44526092,,1,6/13/2017 15:44,1,,,<c++><machine-learning><computer-vision><gpu><caffe>,4,md,,,
+26978806,,1,11/17/2014 17:54,4,,,<c++><macos><opencv><machine-learning><svmlight>,6,no,,,
+16605472,,1,5/17/2013 9:15,2,,,<c++><opencv><machine-learning><computer-vision><neural-network>,5,mb,,,
+6728001,,1,7/18/2011 1:46,1,,,<programming-languages><artificial-intelligence><machine-learning><markov-chains>,5,mb/md,c/ja,,
+12593119,,1,9/26/2012 0:51,3,,,<c++><boost><machine-learning><accumulator>,6,mr,,,
+29412045,,1,4/2/2015 11:39,2,,,<c++><machine-learning><apache-spark><bigdata><vowpalwabbit>,4,md,ja,,
+2383936,,1,3/5/2010 1:19,5,,,<java><c><matlab><machine-learning><svm>,7,mb,ja/c/ma,,
+38857282,,1,8/9/2016 17:44,2,,,<c++><machine-learning><tensorflow>,5,mb,,,
+15723959,,1,3/30/2013 22:01,0,,,<c++><machine-learning><random-forest>,5,md/mr,,!r,
+15341486,,1,3/11/2013 14:46,2,,,<c++><opencv><machine-learning><computer-vision><mode>,9,mb,,,
+9035754,,1,1/27/2012 15:30,5,,,<python><c><machine-learning>,16,mr,py/c,,
+34754602,,1,1/12/2016 22:02,0,,,<c++><opencv><machine-learning><computer-vision><hidden-markov-models>,5,mb,,,
+58352787,,1,10/12/2019 9:34,2,,,<python><c++><machine-learning><xgboost>,4,md,py,,
+38250558,,1,7/7/2016 16:17,5,,,<machine-learning><erlang><neural-network><artificial-intelligence>,6,mb,,,
+22337841,,1,3/11/2014 22:16,2,,,<c++><image><opencv><image-processing><machine-learning>,7,dp,,,
+56012618,,1,5/6/2019 21:23,2,,,<c++><tensorflow><machine-learning><memory><tensorflow-serving>,4,mr,,,
+40537503,,1,11/10/2016 21:41,2,,,<c++><machine-learning><neural-network><precision>,4,dp/me/mb,,,
+825162,,1,5/5/2009 14:37,3,,,<c++><matlab><machine-learning><neural-network>,4,mb,ma,,
+27501444,,1,12/16/2014 9:35,1,,,<c++><machine-learning><classification><svm>,4,mb,,,
+43825674,,1,5/6/2017 21:44,1,,,<java><machine-learning><audio-processing><deeplearning4j>,17,dc/dp/mb,ja,!c+,
+27964801,,1,1/15/2015 13:43,0,,,<machine-learning><nlp><topic-modeling><mallet>,4,md,,!c+,
+8895340,,1,1/17/2012 13:22,4,,,<machine-learning><statistics><data-mining>,7,mr,c/ja/py,,
+5646120,,1,4/13/2011 8:01,3,,,<c++><machine-learning><decision-tree><entropy>,11,mb,,,
+7808011,,1,10/18/2011 13:30,3,,,<c++><r><matlab><image-processing><machine-learning>,5,mr,r/ma,,
+2092403,,1,1/19/2010 9:26,5,,,<c++><machine-learning><classification><pattern-recognition>,5,mr/md,,,
+10160592,,1,4/15/2012 8:32,1,,,<c++><opencv><machine-learning><computer-vision><neural-network>,16,mb,,,
+35158799,,1,2/2/2016 16:30,2,,,<python><c><numpy><machine-learning><logistic-regression>,6,mb,py,,
+2574915,,1,4/4/2010 15:28,2,2575677,4/4/2010 19:50,<c++><algorithm><image-processing><machine-learning><hash>,6,mb,,,4.366666667
+2915341,,1,5/26/2010 17:32,6,2939107,5/30/2010 14:53,<cluster-analysis><machine-learning><svm>,33,mr,,,93.35
+2821575,,1,5/12/2010 18:16,4,2821944,5/12/2010 19:07,<java><machine-learning><nlp><text-processing><classification>,11,mr,ja,!c+,0.85
+3208927,,1,7/8/2010 23:58,8,3209893,7/9/2010 4:43,<java><c++><machine-learning><mapreduce><text-mining>,27,dc/md,ja/py,,4.75
+3508947,,1,8/18/2010 4:18,2,3557418,8/24/2010 14:19,<c++><machine-learning><lgpl>,12,mb,,,154.0166667
+4751091,,1,1/20/2011 18:38,4,4783797,1/24/2011 15:35,<c++><opencv><machine-learning><neural-network><pattern-recognition>,8,mr/fe/me,,,92.95
+6005165,,1,5/14/2011 22:22,2,6006975,5/15/2011 6:58,<java><c++><machine-learning><weka><classification>,7,md,c/ja,,8.6
+38467273,,1,7/19/2016 19:48,1,,,<c++><machine-learning><neural-network>,4,mb,,,
+30253520,,1,5/15/2015 7:05,1,,,<c++><machine-learning><neural-network><deep-learning><caffe>,7,dp,,,
+8492837,,1,12/13/2011 16:43,4,8498396,12/14/2011 1:05,<image-processing><opencv><machine-learning><computer-vision>,4,mr,,,8.366666667
+8904162,,1,1/18/2012 1:47,1,8904835,1/18/2012 3:32,<c++><machine-learning><data-mining><classification><weka>,4,md,,!ja,1.75
+11752727,,1,8/1/2012 4:53,5,11903770,8/10/2012 14:28,<machine-learning><time-series><pattern-recognition>,62,mr,c,,225.5833333
+9482902,,1,2/28/2012 13:36,1,9483618,2/28/2012 14:21,<c++><opencv><machine-learning><computer-vision><cluster-analysis>,6,mb,,,0.75
+15132982,,1,2/28/2013 10:20,2,15148062,3/1/2013 0:04,<c++><matlab><machine-learning><libsvm>,5,mb/md,ma,,13.73333333
+7783243,,1,10/16/2011 8:45,6,7784940,10/16/2011 14:34,<c++><machine-learning><linear-regression>,8,mb,,,5.816666667
+8122227,,1,11/14/2011 13:23,1,8124433,11/14/2011 16:10,<c++><machine-learning><svm><libsvm>,6,no,,,2.783333333
+9614729,,1,3/8/2012 8:28,2,9616077,3/8/2012 10:23,<c++><matlab><machine-learning><computer-vision><robotics>,4,no,ma,,1.916666667
+16832551,,1,5/30/2013 9:32,1,16838631,5/30/2013 14:18,<opencv><machine-learning><svm><scikit-learn><libsvm>,5,md,py,,4.766666667
+1710660,,1,11/10/2009 19:45,6,1710819,11/10/2009 20:05,<c++><machine-learning><classification><svm><libsvm>,20,mr,,,0.333333333
+21293332,,1,1/22/2014 20:30,1,21297273,1/23/2014 0:54,<c++><machine-learning><svm><libsvm>,5,mb,,,4.4
+8180336,,1,11/18/2011 9:33,1,8369381,12/3/2011 17:11,<c++><algorithm><data-structures><machine-learning><histogram>,5,me,,,367.6333333
+8682766,,1,12/30/2011 18:38,5,8708874,1/3/2012 6:52,<c++><frameworks><artificial-intelligence><machine-learning>,11,mr,,!ja,84.23333333
+12376913,,1,9/11/2012 19:52,1,12378267,9/11/2012 21:35,<c++><visual-studio-2010><visual-studio><machine-learning><svm>,4,mr,,,1.716666667
+13597648,,1,11/28/2012 4:06,3,13640421,11/30/2012 6:56,<c++><algorithm><machine-learning><nearest-neighbor>,10,me,,,50.83333333
+11295755,,1,7/2/2012 14:33,1,13137344,10/30/2012 10:46,<machine-learning><classification>,7,mr/md,,,2876.216667
+15892097,,1,4/9/2013 2:04,1,15892516,4/9/2013 2:54,<programming-languages><machine-learning>,19,no,c/ja/r,,0.833333333
+13425722,,1,11/16/2012 23:02,2,13598049,11/28/2012 4:53,<machine-learning><data-mining><weka><decision-tree><classification>,6,dp/mb/mr,ja,,269.85
+28746889,,1,2/26/2015 15:52,1,29781669,4/21/2015 19:42,<c++><image-processing><machine-learning><neural-network><gradient>,22,mb,,,1299.833333
+29996666,,1,5/1/2015 23:41,1,29997531,5/2/2015 1:57,<c++><algorithm><machine-learning><artificial-intelligence><linear-regression>,5,mb,,,2.266666667
+14411627,,1,1/19/2013 6:00,3,14412469,1/19/2013 8:18,<c++><python><r><machine-learning>,5,mb,py/r/ja,,2.3
+5672530,,1,4/15/2011 4:53,3,6649844,7/11/2011 12:07,<java><c++><machine-learning><check-digit>,6,md,ja,,2095.233333
+32247374,,1,8/27/2015 10:49,1,32248352,8/27/2015 11:36,<machine-learning><computer-vision><neural-network><deep-learning><caffe>,6,me,,,0.783333333
+32218466,,1,8/26/2015 5:15,4,32218586,8/26/2015 5:25,<c++><machine-learning><neural-network><deep-learning><caffe>,8,md,,,0.166666667
+35677724,,1,2/28/2016 1:40,4,35678837,2/28/2016 4:52,<python><c++><machine-learning><tensorflow>,146,mr,py,,3.2
+27114065,,1,11/24/2014 20:59,3,27114185,11/24/2014 21:07,<c++><opencv><machine-learning><svm><opencv3.0>,11,mb,,,0.133333333
+25339439,,1,8/16/2014 10:53,1,25343861,8/16/2014 20:50,<python><machine-learning><theano>,4,mb,py,!c+!ma,9.95
+29560917,,1,4/10/2015 12:01,2,29561741,4/10/2015 12:42,<c++><machine-learning><neural-network><tesseract>,12,mr,,,0.683333333
+30486033,,1,5/27/2015 14:52,2,30497907,5/28/2015 5:28,<c++><machine-learning><neural-network><deep-learning><caffe>,32,mb,,,14.6
+32106063,,1,8/19/2015 21:37,1,32106705,8/19/2015 22:30,<python><machine-learning><scikit-learn>,8,mb,py,!ja!c#!c+!r,0.883333333
+34785414,,1,1/14/2016 9:06,11,34788819,1/14/2016 11:44,<c++><windows><visual-studio><machine-learning><tensorflow>,48,md,,,2.633333333
+38509854,,1,7/21/2016 16:40,1,38511095,7/21/2016 17:50,<c++><machine-learning><neural-network><deep-learning><caffe>,5,mr,,,1.166666667
+32407621,,1,9/4/2015 22:52,1,32493255,9/10/2015 4:37,<python><r><machine-learning><missing-data>,4,dp/mr/fe,py/r,,125.75
+33976729,,1,11/28/2015 21:38,1,34546426,12/31/2015 12:16,<c++><machine-learning><computer-vision><artificial-intelligence><logistic-regression>,5,mr/mb,,,782.6333333
+45455318,,1,8/2/2017 8:20,1,45636974,8/11/2017 13:54,<c++><r><machine-learning><random-forest><shark-ml>,5,mb,r,,221.5666667
+41070330,,1,12/9/2016 23:15,5,41071296,12/10/2016 1:36,<machine-learning><build><tensorflow>,13,md,,,2.35
+32343282,,1,9/2/2015 1:24,1,32346978,9/2/2015 7:25,<c++><machine-learning><deep-learning><caffe><glog>,7,no,,,6.016666667
+20414667,,1,12/6/2013 2:11,2,33616878,11/9/2015 19:39,<matlab><machine-learning><octave><linear-algebra><svd>,87,mb/dc,ma,!ja!c+,16889.46667
+44239269,,1,5/29/2017 9:40,8,48541310,1/31/2018 11:41,<python><machine-learning><anaconda>,5,md,py,!c+,5930.016667
+34536340,,1,12/30/2015 19:56,1,34544424,12/31/2015 9:47,<python><tensorflow><machine-learning><reinforcement-learning><q-learning>,13,mr/mb,py,!c+,13.85
+50763308,,1,6/8/2018 14:53,3,50764191,6/8/2018 15:45,<c++><performance><machine-learning><statistics><c++17>,7,mb,,,0.866666667
+51737581,,1,8/8/2018 1:53,2,51748535,8/8/2018 13:55,<c++><tensorflow><machine-learning><deep-learning><multi-gpu>,4,md,py,,12.03333333
+37448873,,1,5/25/2016 22:47,2,37448909,5/25/2016 22:50,<c++><machine-learning><mnist>,4,dp,,,0.05
+37658069,,1,6/6/2016 12:54,1,37659171,6/6/2016 13:47,<c++><machine-learning><neural-network><deep-learning><caffe>,7,dp,,,0.883333333
+63187644,,1,7/31/2020 7:35,1,63187840,7/31/2020 7:48,<python><python-3.x><matplotlib><machine-learning><jupyter-notebook>,4,md,py,!c+,0.216666667
+4770061,,1,1/22/2011 19:30,1,6198732,6/1/2011 9:08,<c++><machine-learning><data-mining><dlib>,7,mr,,,3109.633333
+8562545,,1,12/19/2011 14:09,2,8580389,12/20/2011 18:47,<opencv><machine-learning><computer-vision><hidden-markov-models>,16,mb,,,28.63333333
+31997661,,1,8/13/2015 20:18,1,32017448,8/14/2015 19:31,<c++><opencv><image-processing><machine-learning>,5,dp,,,23.21666667
+32249861,,1,8/27/2015 12:49,2,32292853,8/30/2015 3:25,<machine-learning><computer-vision><neural-network><deep-learning><caffe>,4,me,,,62.6
+32668699,,1,9/19/2015 13:19,2,32757561,9/24/2015 9:12,<c++><machine-learning><neural-network><deep-learning><caffe>,12,mb,,,115.8833333
+33762864,,1,11/17/2015 17:03,2,33791660,11/18/2015 22:27,<c++><algorithm><machine-learning><neural-network>,5,mb,,,29.4
+58143075,,1,9/28/2019 3:17,3,61468101,4/27/2020 20:41,<python><machine-learning><xgboost>,7,md,py,,5105.4
+42276984,,1,2/16/2017 14:38,3,,,<python><c++><machine-learning><theano>,8,md,py,,
+35298823,,1,2/9/2016 17:53,1,,,<machine-learning><tensorflow>,7,mb,,!ma!c+,
+56406390,,1,6/1/2019 11:39,2,,,<c++><windows><machine-learning><caffe>,5,md,,,
+51700351,,1,8/6/2018 3:50,3,,,<python><machine-learning><keras>,10,mb,py,!c+,
+815423,,1,5/2/2009 19:18,2,816496,5/3/2009 7:05,<c++><c><cluster-analysis><machine-learning>,10,mr,c,,11.78333333
+4835177,,1,1/29/2011 4:34,1,4878941,2/2/2011 19:31,<c++><opencv><machine-learning><pattern-matching>,4,mb,,,110.95
+9777282,,1,3/19/2012 20:18,1,9800372,3/21/2012 7:37,<machine-learning><artificial-intelligence><computer-vision><pattern-recognition><viola-jones>,10,mr/mb,,,35.31666667
+10757202,,1,5/25/2012 15:28,3,10888638,6/4/2012 21:29,<c++><algorithm><machine-learning><decision-tree>,5,mb,c,!ja,246.0166667
+12682198,,1,10/1/2012 22:47,2,12691207,10/2/2012 13:26,<c++><opencv><machine-learning><computer-vision>,6,mr,,,14.65
+20252323,,1,11/27/2013 20:18,1,20252482,11/27/2013 20:27,<python><opencv><machine-learning><classification><random-forest>,5,mb,py,!c+,0.15
+35120102,,1,1/31/2016 22:04,2,35141328,2/1/2016 22:07,<python><c++><machine-learning><tensorflow><skflow>,4,md,py,,24.05
